@@ -1,0 +1,10 @@
+{
+	"New handler function": {
+		"prefix": "fwr",
+		"body" : [
+			"func $functionName(w http.ResponseWriter, r *http.Request) {",
+			"\t$0",
+			"}"
+		]
+	}
+}
